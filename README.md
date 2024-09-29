@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Daniel Rosas Garcia
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
